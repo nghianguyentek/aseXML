@@ -6,4 +6,4 @@ Define an address capable of representing both domestic and international addres
 
 ## Elements
 
-- [AustralianAddress](AustralianAddress) or [InternationalAddress](InternationalAddress)
+- [AustralianAddress](AustralianAddress.md) or [InternationalAddress](InternationalAddress.md)

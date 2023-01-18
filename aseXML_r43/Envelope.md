@@ -11,5 +11,5 @@ A detailed description of aseXML may be found in "Guidelines for Development of 
 
 ## Elements
 
-1. [Header](../Header_r37/Header)
-2. [Transactions]() or [Acknowledgements]()
+1. [Header](../Header_r37/Header.md)
+2. [Transactions](../Transactions_r43/Transactions.md) or [Acknowledgements](../Acknowledgements_r15/Acknowledgements.md)

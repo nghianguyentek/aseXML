@@ -2,5 +2,5 @@
 
 ## Elements
 
-1. [FlatOrUnitType](../Enumerations/AustralianFlatOrUnitType) (nillable)
-2. [FlatOrUnitNumber](AustralianFlatOrUnitNumber) (nillable)
+1. [FlatOrUnitType](../Enumerations/AustralianFlatOrUnitType.md) (nillable)
+2. [FlatOrUnitNumber](AustralianFlatOrUnitNumber.md) (nillable)

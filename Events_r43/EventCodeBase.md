@@ -4,4 +4,4 @@
 
 ## Purpose
 
-Helper type in defining [EventCode](EventCode)
+Helper type in defining [EventCode](EventCode.md)

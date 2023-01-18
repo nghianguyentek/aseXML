@@ -10,5 +10,5 @@ The aseXML acknowledgement model calls for each message and transaction to be ac
 
 ## Elements
 
-1. [MessageAcknowledgement](MessageAcknowledgement) (optional; unlimited)
-2. [TransactionAcknowledgement](TransactionAcknowledgement) (optional; unlimited)
+1. [MessageAcknowledgement](MessageAcknowledgement.md) (optional; unlimited)
+2. [TransactionAcknowledgement](TransactionAcknowledgement.md) (optional; unlimited)

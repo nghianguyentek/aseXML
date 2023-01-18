@@ -14,12 +14,12 @@ If a message is rejected, no receipt identifier need be provided with the acknow
 
 ## Attributes
 
-- [initiatingMessageID](../Header_r37/MessageIdentifier) (required)
-- [receiptID](ReceiptIdentifier)
+- [initiatingMessageID](../Header_r37/MessageIdentifier.md) (required)
+- [receiptID](ReceiptIdentifier.md)
 - receiptDate (DateTime; required)
-- [status](MessageStatus) (required)
+- [status](MessageStatus.md) (required)
 - duplicate (`Yes`|`No`; default: `No`)
 
 ## Elements
 
-- [Event](../Events_r43/Event) (optional; unlimited)
+- [Event](../Events_r43/Event.md) (optional; unlimited)

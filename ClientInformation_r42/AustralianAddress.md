@@ -12,9 +12,9 @@ It is important to note the occurrence frequency of elements within the format, 
 
 ## Elements
 
-1. [StructuredAddress](AustralianStructuredAddressComponents) or [UnstructuredAddress](UnstructuredAddress)
-2. [SuburbOrPlaceOrLocality](AustralianSuburbOrPlaceOrLocality) (optional; nillable)
-3. [StateOrTerritory](AustralianStateOrTerritory)
-4. [PostCode](AustralianPostCode)
-5. [DeliveryPointIdentifier](AustralianDeliveryPointIdentifier) (optional; nillable)
-6. [GNAFPID](GeocodeNationalAddressFilePersistentIdentifier) (optional; nillable)
+1. [StructuredAddress](AustralianStructuredAddressComponents.md) or [UnstructuredAddress](UnstructuredAddress.md)
+2. [SuburbOrPlaceOrLocality](AustralianSuburbOrPlaceOrLocality.md) (optional; nillable)
+3. [StateOrTerritory](AustralianStateOrTerritory.md)
+4. [PostCode](AustralianPostCode.md)
+5. [DeliveryPointIdentifier](AustralianDeliveryPointIdentifier.md) (optional; nillable)
+6. [GNAFPID](GeocodeNationalAddressFilePersistentIdentifier.md) (optional; nillable)

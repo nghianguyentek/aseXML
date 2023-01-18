@@ -10,13 +10,13 @@ aseXML encourages the use of events in transactions to report status information
 
 ## Attributes
 
-- [class](EventClass) (default: `Application`)
-- [severity](EventSeverity) (default: `Fatal`)
+- [class](EventClass.md) (default: `Application`)
+- [severity](EventSeverity.md) (default: `Fatal`)
 
 ## Elements
 
-1. [Code](EventCode)
-2. [KeyInfo](EventKeyInfo) (optional)
-3. [Context](EventContext) (optional)
+1. [Code](EventCode.md)
+2. [KeyInfo](EventKeyInfo.md) (optional)
+3. [Context](EventContext.md) (optional)
 4. Explanation (String; optional)
-5. [SupportedVersions](EventSupportedVersions) (optional)
+5. [SupportedVersions](EventSupportedVersions.md) (optional)

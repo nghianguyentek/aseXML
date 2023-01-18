@@ -10,4 +10,4 @@ Where an unsupported version of a supported transaction is received, the receive
 
 ## Elements
 
-- [Version](ReleaseIdentifier) (unlimited)  
+- [Version](ReleaseIdentifier.md) (unlimited)  

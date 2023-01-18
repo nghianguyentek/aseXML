@@ -1,6 +1,6 @@
 # NMI Type
 
-*Extends [NMIBase](NMIBase)*
+*Extends [NMIBase](NMIBase.md)*
 
 ## Purpose
 
@@ -12,5 +12,5 @@ Used to identify electricity and gas metering points
 
 ## Attributes
 
-- [checksum](NMIChecksum)
+- [checksum](NMIChecksum.md)
 

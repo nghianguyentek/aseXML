@@ -1,0 +1,442 @@
+# AustralianStreetType Enum
+
+## Purpose
+
+Define street types as per Australian Standard AS4590:2006.
+
+## Detail
+
+There are several additions in this list over and above those defined in AS4590:2006.  These additions are defined as follows:
+
+- `GTWY` - GATEWAY
+- `HETH` - HEATH
+- `ISLD` - ISLAND
+- `RTRN` - RETURN
+- `WOOD` - WOOD
+	
+	Version 2.0 addition
+- `VLL` - VILLA
+
+	Version 3.0 addition
+- `BAY` - BAY
+
+	Version 4.0 additions
+- `ACRE` - ACRE
+- `ARTL` - ARTERIAL
+- `ARTY` - ARTERY
+- `AV` - AVENUE
+- `BA` - BANAN
+- `BANK` - BANK
+- `BR` - BRACE
+- `BRAN` - BRANCH
+- `BRET` - BRETT
+- `BVDE` - BOULEVARDE
+- `BWK` - BOARDWALK
+- `BWLK` - BOARDWALK
+- `CLR` - CLUSTER
+- `CNCD` - CONCORD
+- `CNN` - CONNECTION
+- `CNTN` - CONNECTION
+- `CR` - CRESCENT
+- `CRF` - CRIEF
+- `CRK` - CROOK
+- `CSAC` - CUL-DE-SAC
+- `CSWY` - CAUSEWAY
+- `CUT` - CUT
+- `CUTT` - CUTTING
+- `DASH` - DASH
+- `DE` - DEVIATION
+- `DENE` - DENE
+- `DIV` - DIVIDE
+- `DOCK` - DOCK
+- `DOM` - DOMAIN
+- `DOWN` - DOWN
+- `DVWY` - DRIVEWAY
+- `DWNS` - DOWNS
+- `ESMT` - EASEMENT
+- `FBRK` - FIREBREAK
+- `FK` - FORK
+- `FLNE` - FIRELINE
+- `FLTS` - FLATS
+- `FORD` - FORD
+- `FORK` - FORK
+- `GLDE` - GLADE
+- `GWY` - GATEWAY
+- `HIRD` - HIGHROAD
+- `HLLW` - HOLLOW
+- `HRBR` - HARBOUR
+- `HTH` - HEATH
+- `HVN` - HAVEN
+- `ID` - ISLAND
+- `INLT` - INLET
+- `KEYS` - KEYS
+- `KNOL` - KNOLL
+- `LADR` - LADDER
+- `LEAD` - LEAD
+- `LEDR` - LEADER
+- `LYNN` - LYNNE
+- `MANR` - MANOR
+- `MART` - MART
+- `MEAD` - MEAD
+- `MILE` - MILE
+- `MNR` - MANOR
+- `MTWY` - MOTORWAY
+- `NTH` - NORTH
+- `NULL` - NULL
+- `OTLT` - OUTLET
+- `OVAL` - OVAL
+- `PLMS` - PALMS
+- `PRDS` - PARADISE
+- `PREC` - PRECINCT
+- `PSLA` - PENINSULA
+- `PWAY` - PATHWAY
+- `PWY` - PARKWAY
+- `REEF` - REEF
+- `ROFW` - RIGHT OF WAY
+- `ROWE` - ROWE
+- `RSNG` - RISING
+- `RTN` - RETURN
+- `SHUN` - SHUNT
+- `SKLN` - SKYLINE
+- `STAI` - STRAIT
+- `STH` - SOUTH
+- `STRT` - STRAIGHT
+- `SVWY` - SERVICEWAY
+- `THFR` - THOROUGHFARE
+- `THRU` - THROUGHWAY
+- `TMWY` - TRAMWAY
+- `TUNL` - TUNNEL
+- `TVSE` - TRAVERSE
+- `TWAY` - TRAMWAY
+- `VIAD` - VIADUCT
+- `VLGE` - VILLAGE
+- `VLLA` - VILLA
+- `VLLY` - VALLEY
+- `VUE` - VUE
+- `VWS` - VIEWS
+- `WD` - WOOD
+- `WDS` - WOODS
+- `WTWY` - WATERWAY
+- `WWAY` - WATERWAY
+
+sion 5.0 additions
+
+Element AustralianStreetType has been restricted to 4 characters
+	
+Version 6.0 deletions because of duplicate  Australian street types
+
+- `ARTY` - ARTERY
+- `AV` - AVENUE
+- `BWK` - BOARDWALK
+- `BR` - BRACE
+- `CSWY` - CAUSEWAY
+- `CNTN` - CONNECTION 
+- `CR` - CRESCENT
+- `CSAC` - CUL-DE-SAC
+- `CUTT` - CUTTING
+- `DE` - DEVIATION
+- `DVWY` - DRIVEWAY
+- `FORK` - FORK
+- `GLDE` - GLADE
+- `GWY` - GATEWAY
+- `HTH` - HEATH
+- `HIRD` - HIGHROAD
+- `ID` - ISLAND
+- `MNR` - MANOR
+- `MTWY` - MOTORWAY
+- `PWY` - PARKWAY
+- `PWAY` - PATHWAY
+- `ROFW` - RIGHT OF WAY
+- `RTN` - RETURN
+- `SVWY` - SERVICEWAY
+- `THFR` - THOROUGHFARE
+- `TWAY` - TRAMWAY
+- `VIAD` - VIADUCT
+- `VLLA` - VILLA
+- `WWAY` - WATERWAY
+- `WD` - WOOD
+
+## Values
+
+- `ACCS`
+- `ALLY`
+- `ALWY`
+- `AMBL`
+- `ANCG`
+- `APP`
+- `ARC`
+- `ART`
+- `AVE`
+- `BASN`
+- `BAY`
+- `BCH`
+- `BEND`
+- `BLK`
+- `BVD`
+- `BOWL`
+- `BRCE`
+- `BRAE`
+- `BRK`
+- `BDGE`
+- `BDWY`
+- `BROW`
+- `BYPA`
+- `BYWY`
+- `CAUS`
+- `CRSE`
+- `CTR`
+- `CNWY`
+- `CH`
+- `CIR`
+- `CLT`
+- `CCT`
+- `CRCS`
+- `CL`
+- `CLDE`
+- `CMMN`
+- `CON`
+- `CPS`
+- `CNR`
+- `CSO`
+- `CT`
+- `CTYD`
+- `COVE`
+- `CRES`
+- `CRST`
+- `CRSS`
+- `CRSG`
+- `CRD`
+- `COWY`
+- `CUWY`
+- `CDS`
+- `CTTG`
+- `DALE`
+- `DELL`
+- `DEVN`
+- `DIP`
+- `DSTR`
+- `DR`
+- `DRWY`
+- `EDGE`
+- `ELB`
+- `END`
+- `ENT`
+- `ESP`
+- `EST`
+- `EXP`
+- `EXTN`
+- `FAWY`
+- `FTRK`
+- `FITR`
+- `FLAT`
+- `FOLW`
+- `FTWY`
+- `FSHR`
+- `FORM`
+- `FWY`
+- `FRNT`
+- `FRTG`
+- `GAP`
+- `GDN`
+- `GDNS`
+- `GTE`
+- `GTES`
+- `GTWY`
+- `GLD`
+- `GLEN`
+- `GRA`
+- `GRN`
+- `GRND`
+- `GR`
+- `GLY`
+- `HETH`
+- `HTS`
+- `HRD`
+- `HUB`
+- `HWY`
+- `HILL`
+- `INTG`
+- `INTN`
+- `ISLD`
+- `JNC`
+- `KEY`
+- `LDG`
+- `LANE`
+- `LNWY`
+- `LEES`
+- `LINE`
+- `LINK`
+- `LT`
+- `LKT`
+- `LOOP`
+- `LWR`
+- `MALL`
+- `MNDR`
+- `MEW`
+- `MEWS`
+- `MWY`
+- `MT`
+- `NOOK`
+- `OTLK`
+- `PDE`
+- `PARK`
+- `PKLD`
+- `PKWY`
+- `PART`
+- `PASS`
+- `PATH`
+- `PHWY`
+- `PIAZ`
+- `PL`
+- `PLAT`
+- `PLZA`
+- `PKT`
+- `PNT`
+- `PORT`
+- `PROM`
+- `PRST`
+- `PSGE`
+- `QUAD`
+- `QDGL`
+- `QDRT`
+- `QY`
+- `QYS`
+- `RMBL`
+- `RAMP`
+- `RNGE`
+- `RCH`
+- `RES`
+- `REST`
+- `RTT`
+- `RIDE`
+- `RDGE`
+- `RGWY`
+- `ROWY`
+- `RING`
+- `RISE`
+- `RVR`
+- `RVWY`
+- `RVRA`
+- `RD`
+- `RDS`
+- `RDSD`
+- `RDWY`
+- `RNDE`
+- `RSBL`
+- `RTY`
+- `RND`
+- `RTE`
+- `RTRN`
+- `ROW`
+- `RUE`
+- `RUN`
+- `SWY`
+- `SDNG`
+- `SLPE`
+- `SND`
+- `SPUR`
+- `SQ`
+- `STRS`
+- `SHWY`
+- `STPS`
+- `STRA`
+- `ST`
+- `STRP`
+- `SBWY`
+- `TARN`
+- `TCE`
+- `THOR`
+- `TLWY`
+- `TOP`
+- `TOR`
+- `TWRS`
+- `TRK`
+- `TRL`
+- `TRLR`
+- `TRI`
+- `TKWY`
+- `TURN`
+- `UPAS`
+- `UPR`
+- `VALE`
+- `VDCT`
+- `VIEW`
+- `VLL`
+- `VLLS`
+- `VSTA`
+- `WADE`
+- `WALK`
+- `WKWY`
+- `WAY`
+- `WHRF`
+- `WOOD`
+- `WTRS`
+- `WYND`
+- `YARD`
+- `ACRE`
+- `ARTL`
+- `BA`
+- `BANK`
+- `BRAN`
+- `BRET`
+- `BVDE`
+- `BWLK`
+- `CLR`
+- `CNCD`
+- `CNN`
+- `CRF`
+- `CRK`
+- `CUT`
+- `DASH`
+- `DENE`
+- `DIV`
+- `DOCK`
+- `DOM`
+- `DOWN`
+- `DWNS`
+- `ESMT`
+- `FBRK`
+- `FK`
+- `FLNE`
+- `FLTS`
+- `FORD`
+- `HLLW`
+- `HRBR`
+- `HVN`
+- `INLT`
+- `KEYS`
+- `KNOL`
+- `LADR`
+- `LEAD`
+- `LEDR`
+- `LYNN`
+- `MANR`
+- `MART`
+- `MEAD`
+- `MILE`
+- `NTH`
+- `NULL`
+- `OTLT`
+- `OVAL`
+- `PLMS`
+- `PRDS`
+- `PREC`
+- `PSLA`
+- `REEF`
+- `ROWE`
+- `RSNG`
+- `SHUN`
+- `SKLN`
+- `STAI`
+- `STH`
+- `STRT`
+- `THRU`
+- `TMWY`
+- `TUNL`
+- `TVSE`
+- `VLGE`
+- `VLLY`
+- `VUE`
+- `VWS`
+- `WDS`
+- `WTWY`

@@ -2,7 +2,7 @@
 
 ## Elements
 
-1. [NMI](../Common_r43/NMI) or [Address](../ClientInformation_r42/Address)
-2. [ServiceOrderType](ServiceOrderTypeBase) (optional)
-3. [ServiceOrderNumber](UniqueIdentifier) (optional)
-4. [ServiceProviderReference](UniqueIdentifier) (optional)
+1. [NMI](../Common_r43/NMI) or [Address](../ClientInformation_r42/Address.md)
+2. [ServiceOrderType](ServiceOrderTypeBase.md) (optional)
+3. [ServiceOrderNumber](../Common_r43/UniqueIdentifier.md) (optional)
+4. [ServiceProviderReference](../Common_r43/UniqueIdentifier.md) (optional)

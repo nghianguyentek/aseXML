@@ -1,6 +1,6 @@
 # ReceiptIdentifier Type
 
-*Extends [UniqueIdentifier](../Common_r43/UniqueIdentifier)*
+*Extends [UniqueIdentifier](../Common_r43/UniqueIdentifier.md)*
 
 ## Purpose
 

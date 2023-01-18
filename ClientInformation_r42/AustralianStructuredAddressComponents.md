@@ -10,4 +10,11 @@ See the definition of AustralianAddress for more details. This type should be us
 
 ## Elements
 
-1. [FlatOrUnit](FlatUnit) (optional)
+1. [FlatOrUnit](FlatUnit.md) (optional)
+2. [FloorOrLevel](FloorOrLevel.md) (optional)
+3. [BuildingOrPropertyName](AustralianBuildingOrPropertyName.md) (optional; nillable; limited: 2)
+4. [LocationDescriptor](AustralianLocationDescriptor.md) (optional; nillable)
+5. [House](House.md) (optional; limited: 2)
+6. [Lot](Lot.md) (optional)
+7. [Street](Street.md) (optional; limited: 2)
+8. [PostalDelivery](PostalDelivery.md) (optional)
