@@ -1,0 +1,5 @@
+# EmailAddress Type
+
+*String*
+
+- Pattern: `[^@]+@[^\.]+\..+`

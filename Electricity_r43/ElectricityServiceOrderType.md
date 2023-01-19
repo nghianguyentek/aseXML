@@ -4,7 +4,7 @@
 
 ## Attributes
 
-- version (optional; default: `r36`)
+- version (default: `r36`)
 
 ## Elements
 
